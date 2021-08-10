@@ -1,4 +1,4 @@
-# Simple Blog Application With React.js
+# CRUD Blog Application With React.js
 
 This is a side project I created while learning how to use React.js
 
